@@ -1,1 +1,1 @@
-# Simple-ML-DL-NLP-Projects-
+# Simple-ML-NLP-Projects-
